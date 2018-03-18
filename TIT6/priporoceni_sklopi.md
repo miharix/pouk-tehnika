@@ -54,5 +54,7 @@ _vir: http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/os/preno
 ## RAČUNALNIK IN KRMILJENJE, RAČUNALNIŠKO PODPRTA PROIZVODNJA ##
 * Risanje z računalniškim grafičnim orodjem (CAD, 3D),
 * izračun cene izdelka z računalniškim orodjem.
-
+## PROMETNA VZGOJA ##
+* Pravila  ravnanja  učencev  na  poti  v  šolo  in domov, prometno varnostni načrt,
+* oprema in vzdrževanje kolesa.
 
