@@ -1,4 +1,4 @@
-# Učni cilji in vsebine #
+# Učni cilji in vsebine 6r TIT #
 _vir: http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/os/prenovljeni_UN/UN_tehnika_tehnologija.pdf_
 
 ## Konstruiranje škatle ##
