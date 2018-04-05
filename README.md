@@ -4,4 +4,5 @@
 * TIT6 - Redni OŠ predmet - Tehnika in tehnologija 6
 * TIT7 - Redni OŠ predmet - Tehnika in tehnologija 7
 * TIT8 - Redni OŠ predmet - Tehnika in tehnologija 8
-* ELR - Izbirni OŠ predmet - ELektronika z Robotiko
+* ELR - Izbirni OŠ predmet - Elektronika z robotiko
+* NIP-TIT - Neobvezni izbirni OŠ predmet - Tehnika in tehnologija _(4,5,6r)_
