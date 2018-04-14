@@ -6,7 +6,7 @@ _vir: http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/os/devet
 _Učenci:_
 * poznajo delovanje osnovnih elektronskih vezij,
 * ločijo digitalno in analogno izražanje podatkov,
-* znajo uporabiti razli~ne senzorje v preprostih merilnih napravah,
+* znajo uporabiti različne senzorje v preprostih merilnih napravah,
 * poznajo osnove regulacije in vodenja procesov,
 * poznajo osnovne pojme informatike in prenašanja podatkov,
 * se zavedajo povezanosti elektronike in robotike s fiziko in matematiko.
