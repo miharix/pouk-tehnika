@@ -1,4 +1,4 @@
-# Ustna vprašanja 8r TIT #
+# Ustna vprašanja 6r TIT #
 _Vprašanja so izpeljana iz predpisanih standardov znanja_
 ## Za pozitivno oceno(2) ##
 * Utemelji pravila varnosti pri delu.
