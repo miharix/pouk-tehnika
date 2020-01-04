@@ -20,3 +20,6 @@
 ## Ostalo
 * strežnik z PHP podporo (lahko na samem raspberry pi)
 * strežnik z koraki narejenimi v [reveal.js](https://github.com/hakimel/reveal.js)
+
+##Shema priklopa
+![](kaj_zdaj_vezava.png) 
