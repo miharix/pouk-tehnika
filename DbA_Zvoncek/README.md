@@ -15,3 +15,4 @@
 ![](foto_spredaj_znotraj.jpg) 
 ![](foto_zadaj_znotraj.jpg) 
 ![](foto_zgoraj.jpg) 
+![](shema.png) 
