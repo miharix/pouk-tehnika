@@ -3,6 +3,8 @@
 
 ### Glej članek TIM 2 LVIII, oktober 2019, str.26-27) 
 
+![](foto/IMG_20190924_075823.jpg) 
+
 ## Potrebni material
 * [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) ali bolje
 * Arduino micro
